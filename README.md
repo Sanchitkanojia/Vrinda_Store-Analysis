@@ -5,12 +5,12 @@ The objective of this Data Analyst project is to generate a comprehensive annual
 
 ### Key Performance Indicators (KPIs):
 
-Comparative analysis of sales and orders using a single chart and Identification of the month with the highest sales and orders.
-Examination of the purchasing patterns of men and women in 2022.
-Analysis of different order statuses observed in 2022.
-Identification of the top five states contributing to sales.
-Investigation of the relationship between age and gender based on the number of orders.
-Determination of the channel(s) contributing the most to sales and Identification of the highest-selling category.
+1. Comparative analysis of sales and orders using a single chart and Identification of the month with the highest sales and orders.
+2. Examination of the purchasing patterns of men and women in 2022.
+3. Analysis of different order statuses observed in 2022.
+4. Identification of the top five states contributing to sales.
+5. Investigation of the relationship between age and gender based on the number of orders.
+6. Determination of the channel(s) contributing the most to sales and Identification of the highest-selling category.
 
 ### Dashboard:
 
